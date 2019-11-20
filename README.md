@@ -11,5 +11,5 @@ pip install -r requirements.txt
 ## Usage
 
 ~~~cmd
-python py-template-engine.py templates\index.html config.ini >> foo.html
+python py-template-engine.py templates\index.html config.yaml >> foo.html
 ~~~
